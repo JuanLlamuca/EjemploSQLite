@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EjemploSQLite</string>
+    <string name="txt_nombre">Nombres</string>
+    <string name="txt_apellido">Apellidos</string>
+    <string name="txt_direccion">Direccion</string>
+    <string name="txt_cedula">Cedula</string>
+    <string name="btn_guardar">boton</string>
+
 </resources>
